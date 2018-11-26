@@ -117,10 +117,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/products.PNG "Home Page")
 
-### Work Board Page:
-
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/drag&drop.PNG "Home Page")
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -141,18 +137,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Contribution:
 
-- Contibutors are most welcome.
 
-## Somethings wrong!!
 
-- If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker
-
-## License
-
-This project is licensed under the MIT License - see the [MIT license](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE) file for details
